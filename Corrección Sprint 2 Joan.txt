@@ -1,0 +1,8 @@
+Corrección Sprint 2 Joan
+Usar iniciales de alias para las columnas se ve mejor y mas limpia la query. 
+ejemplo transaction AS t
+
+En el ejercicio 3 del nivel 1 para buscar si hay empresas que no hicieron transacciones en la subquery
+sería mas eficiente agregar SELECT DISTINCT ya que solo estamos buscando una vez las empresas y en transaction está multiples veces.
+
+Lo demás Okay.
